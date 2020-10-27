@@ -1,0 +1,5 @@
+EEGRASS_1_ShapiroCases_April11_2016_Case 1.mat exceeds Github's 100MB limitation.
+So it is partitioned into 2 parts:
+EEGRASS_1_ShapiroCases_April11_2016_Case 1-part1.mat
+EEGRASS_1_ShapiroCases_April11_2016_Case 1-part2.mat
+To recover, please concatenate eeg from part1 and part2; and eegtime from part1 and part2.
